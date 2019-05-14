@@ -20,7 +20,8 @@
   "homepage": "https://github.com/ashdeepupadhyay/ExpressJS#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
