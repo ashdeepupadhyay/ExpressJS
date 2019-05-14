@@ -8,7 +8,9 @@ const app=express();
 //init middleware
 //app.use(logger);
 
-
+//Body Parser MiddleWare
+app.use(express.json());
+app.use(express.urlencoded({extended:false}));
 
 //to route
 // app.get('/',(req,res)=>{
