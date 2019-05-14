@@ -1,0 +1,23 @@
+{
+  "name": "ExpressJS",
+  "version": "1.0.0",
+  "description": "Express JS basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashdeepupadhyay/ExpressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashdeepupadhyay/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/ashdeepupadhyay/ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
